@@ -26,7 +26,7 @@ This project automates the deployment of a web application using modern DevOps t
 ├── main.tf                     # Terraform configuration
 ├── variables.tf
 ├── outputs.tf
-├── docker-compose.yml          # (if present)
+├── docker-compose.yml          
 ├── README.md
 
 ## How to Run Locally
